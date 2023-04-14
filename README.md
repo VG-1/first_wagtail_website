@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Let's make our first Wagtail website
 
 Hello, so I just learnt about wagtail and it's use cases and how to create wagtail website so I will just write what I learnt through this tutorial.
