@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Let's make our first Wagtail website
 
@@ -129,4 +130,5 @@ I hope this tutorial will help you out to make your first wagtail website :)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vinayakgavariya.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/vinayakgavariya)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinayakgavariya)
+
 
